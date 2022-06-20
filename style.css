@@ -1,0 +1,31 @@
+.NOTE{
+    font-size: 15px;
+    color: rgb(124, 89, 0);
+}
+
+.heading{
+    font-size: 20px;
+    color: rgb(133, 55, 0)!important;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+    box-shadow: 10px 10px 20px gold;
+}
+
+#copy-right-footer{
+position: fixed;
+text-align: center;
+color: cyan;
+background-color: rgb(95, 95, 95);
+bottom: 0;
+width: 100%;
+font-size: 18px;
+font-family: 'Kanit', sans-serif;
+}
+
+canvas{
+    border: 5px;
+    border-color: gold;
+    box-shadow: 5px 5px 5px rgb(192, 180, 115);
+}
